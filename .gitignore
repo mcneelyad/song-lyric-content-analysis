@@ -1,1 +1,4 @@
 .env
+
+data/raw_lyrics/*
+schemas/__pycache__/*
